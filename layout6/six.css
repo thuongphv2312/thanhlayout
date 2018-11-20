@@ -1,0 +1,50 @@
+
+body{
+	width: 70%;
+	overflow: auto;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid red;
+
+}
+h2{
+	text-align: center;
+}
+div.one{
+	margin-bottom: 20px;
+	background-color: lightgray;
+	padding: 20px;
+	overflow: auto;
+}
+div.one img{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+
+}
+p{
+	font-size: 20px;
+}
+div.two{
+	margin-bottom: 20px;
+	background-color: lightgray;
+	padding: 20px;
+	overflow: auto;
+}
+div.two img{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+
+}
+div.three{
+	background-color: lightgray;
+	padding: 20px;
+	overflow: auto;
+}
+div.three img{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+
+}

@@ -1,0 +1,46 @@
+
+body{
+	border: 1px solid red;
+	padding: 20px;
+	width: 70%;
+	margin: 0 auto;
+}
+ul{
+	margin: 0;
+}
+h2{
+	text-align: center;
+	margin: 20px;
+}
+div.one{
+	margin: 20px;
+}
+div.one img{
+	width: 60%;
+	float: left;
+	margin-right: 30px;
+}
+div.two ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 20px;
+}
+div.two ul li{
+	display: inline-block;
+	margin-right:20px;
+	background-color: lightgray;
+	border-radius: 30px;
+	height: 50px;
+	width: 50px;
+}
+div.three{
+	display: flex;
+	flex-direction: row;
+}
+div.three div{
+	margin: 20px;
+}
+
+div.three img{
+	width: 100%;
+}

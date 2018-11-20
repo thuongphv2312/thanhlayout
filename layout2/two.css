@@ -1,0 +1,22 @@
+div.than{
+	width: 90%;
+	margin: 0 auto;
+}
+div.than h2{
+	text-align: center;
+}
+div.me{
+	display: flex;
+	flex-direction: column;
+	border: 1px solid red;
+	padding: 20px;
+}
+div.me img{
+	width: 100%;
+}
+.margin_all{
+	margin: 20px;
+}
+.col-1{
+	display: flex;
+}

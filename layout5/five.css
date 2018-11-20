@@ -1,0 +1,32 @@
+body{
+	border: 1px solid red;
+	padding: 20px;
+	width: 70%;
+	margin: 0 auto;
+}
+ul{
+	margin: 0;
+}
+h2{
+	text-align: center;
+	margin: 20px;
+}
+div.one{
+	margin: 20px;
+}
+div.one img{
+	width: 60%;
+	float: left;
+	margin-right: 30px;
+}
+div.three{
+	display: flex;
+	flex-direction: row;
+}
+div.three div{
+	margin: 20px;
+}
+
+div.three img{
+	width: 100%;
+}
